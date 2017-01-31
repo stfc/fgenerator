@@ -40,7 +40,7 @@ from fparser.readfortran import FortranStringReader
 from fparser.block_statements import Select
 from fparser.statements import Case
 
-from fgenerator.subclass import OMPDirective
+from fgenerator.fparser_wrapper import OMPDirective
 
 def index_of_object(alist, obj):
     '''Effectively implements list.index(obj) but returns the index of

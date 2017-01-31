@@ -39,7 +39,7 @@ from fparser.readfortran import FortranStringReader
 from fparser.block_statements import Select
 from fparser.statements import Case
 
-from fgenerator.subclass import OMPDirective
+from fgenerator.fparser_wrapper import OMPDirective
 
 # Module-wide utility methods
 

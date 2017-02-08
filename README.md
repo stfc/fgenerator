@@ -1,4 +1,4 @@
-[![PYPI version](https://img.shields.io/pypi/v/fgenerator.svg)](https://pypi.python.org/pypi/fgenerator)
+[![PYPI version](https://img.shields.io/pypi/v/fgenerator.png)](https://pypi.python.org/pypi/fgenerator)
 [![Python versions](https://img.shields.io/pypi/pyversions/fgenerator.svg)](https://pypi.python.org/pypi/fgenerator)
 [![Build Status](https://travis-ci.org/stfc/fgenerator.svg?branch=master)](https://travis-ci.org/stfc/fgenerator)
 [![Coverage Status](https://coveralls.io/repos/github/stfc/fgenerator/badge.svg?branch=master)](https://coveralls.io/github/stfc/fgenerator?branch=master)
